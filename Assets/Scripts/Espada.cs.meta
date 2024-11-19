@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 2839b8583924af3499ffee2904e58970
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sonidoCorte: {fileID: 8300000, guid: eac955dab395d594c839ca63f743ba2b, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
